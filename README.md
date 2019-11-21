@@ -1,3 +1,3 @@
 ## How to launch:
 
-You need to inser your Udemy cookies inside of .py file and then launch it.
+You need to insert your Udemy cookies inside of .py file and then launch it.
